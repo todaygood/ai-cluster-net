@@ -50,3 +50,11 @@ AI集群网络架构
 ## 论文 
 
 [10倍提效，每天100篇，如何使用AI提取arXiv论文知识？](https://blog.csdn.net/shadowcz007/article/details/136774291)
+
+
+
+## AI 存储
+
+[面向大模型的存储加速方案设计和实践](https://github.com/todaygood/ai-cluster-net.git)
+[kvcacahe-Mooncake](https://github.com/kvcache-ai/Mooncake)
+
